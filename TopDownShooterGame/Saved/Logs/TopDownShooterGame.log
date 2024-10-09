@@ -998,3 +998,159 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.10.09-15.31.38:793][660]AssetCheck: New page: Asset Save: multiple assets
 [2024.10.09-15.31.38:793][660]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownShooterGame_BuiltData.TopDownShooterGame_BuiltData
 [2024.10.09-15.31.38:793][660]LogContentValidation: Display: Validating World /Game/TopDownShooterGame.TopDownShooterGame
+[2024.10.09-15.33.14:335][175]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.09-15.33.14:353][175]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.09-15.33.18:023][603]LogContentBrowser: Attempting asset rename: NewFolder -> Blueptrints
+[2024.10.09-15.33.18:023][603]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.09-15.33.27:073][552]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.09-15.34.16:169][ 38]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.09-15.34.25:695][ 38]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.09-15.34.25:709][ 38]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.09-15.34.25:715][ 38]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.09-15.34.47:893][651]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_FPS_Character
+[2024.10.09-15.34.47:902][651]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.09-15.34.49:854][860]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueptrints/BP_FPS_Character.BP_FPS_Character
+[2024.10.09-15.34.50:113][860]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2024.10.09-15.34.51:059][861]LogRenderer: Reallocating scene render targets to support 1164x700 Format 10 NumSamples 1 (Frame:1).
+[2024.10.09-15.35.27:055][192]LogSlate: Took 0.005201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.10.09-15.38.03:781][ 98]BlueprintLog: New page: Compile BP_FPS_Character
+[2024.10.09-15.38.03:823][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.10.09-15.40.07:179][690]BlueprintLog: New page: Compile BP_FPS_Character
+[2024.10.09-15.40.07:303][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.10.09-15.41.42:247][425]BlueprintLog: New page: Compile BP_FPS_Character
+[2024.10.09-15.41.42:376][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.10.09-15.42.17:042][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.10.09-15.42.19:885][882]LogEditorViewport: Clicking on Actor (LMB): BP_FPS_Character_C (BP_FPS_Character)
+[2024.10.09-15.42.28:846][879]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Marine)
+[2024.10.09-15.42.29:318][930]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (Marine)
+[2024.10.09-15.42.32:813][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.10.09-15.42.33:623][334]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.09-15.42.33:630][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.09-15.42.33:630][334]PIE: New page: PIE session: TopDownShooterGame (9 paź 2024, 19:42:33)
+[2024.10.09-15.42.33:632][334]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.10.09-15.42.33:635][334]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.10.09-15.42.33:635][334]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TopDownShooterGame
+[2024.10.09-15.42.33:640][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003720s)
+[2024.10.09-15.42.33:641][334]LogAIModule: Creating AISystem for world TopDownShooterGame
+[2024.10.09-15.42.33:642][334]LogPlayLevel: PIE: World Init took: (0.002637s)
+[2024.10.09-15.42.33:642][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownShooterGame.TopDownShooterGame to /Game/UEDPIE_0_TopDownShooterGame.TopDownShooterGame (0.006496s)
+[2024.10.09-15.42.33:662][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.10.09-15.42.33:664][334]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.09-15.42.33:665][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.09-15.42.33:665][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.09-15.42.33:665][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.09-15.42.33:665][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.09-15.42.33:665][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.09-15.42.33:665][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.09-15.42.33:665][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.09-15.42.33:665][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.09-15.42.33:665][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.09-15.42.33:665][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.09-15.42.33:665][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.09-15.42.33:665][334]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.09-15.42.33:671][334]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.09-15.42.33:671][334]LogAudioMixer: Display: 1: FrontRight
+[2024.10.09-15.42.33:683][334]LogAudioMixer: Display: Using Audio Device Słuchawki (Arctis Nova 3)
+[2024.10.09-15.42.33:683][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.09-15.42.33:683][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.09-15.42.33:683][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.09-15.42.33:683][334]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.09-15.42.33:684][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.09-15.42.33:684][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.09-15.42.33:684][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.09-15.42.33:685][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.09-15.42.33:685][334]LogInit: FAudioDevice initialized.
+[2024.10.09-15.42.33:685][334]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownShooterGame'.
+[2024.10.09-15.42.33:700][334]LogLoad: Game class is 'GameModeBase'
+[2024.10.09-15.42.33:710][334]LogWorld: Bringing World /Game/UEDPIE_0_TopDownShooterGame.TopDownShooterGame up for play (max tick rate 0) at 2024.10.09-17.42.33
+[2024.10.09-15.42.33:725][334]LogWorld: Bringing up level for play took: 0.015229
+[2024.10.09-15.42.33:726][334]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2024.10.09-15.42.33:733][334]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.10.09-15.42.33:747][334]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.10.09-15.42.33:750][334]PIE: Server logged in
+[2024.10.09-15.42.33:751][334]PIE: Play in editor total start time 0,125 seconds.
+[2024.10.09-15.42.45:013][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-15.42.45:013][634]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TopDownShooterGame
+[2024.10.09-15.42.45:013][634]LogWorld: UWorld::CleanupWorld for TopDownShooterGame, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-15.42.45:014][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-15.42.45:023][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.09-15.42.45:039][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-15.42.45:065][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.09-15.42.45:065][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.09-15.42.45:066][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.09-15.42.45:068][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-15.42.45:088][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.10.09-15.42.45:117][635]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.10.09-15.42.51:039][322]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Marine)
+[2024.10.09-15.42.52:145][446]Cmd: DELETE
+[2024.10.09-15.42.52:146][446]Cmd: ACTOR DELETE
+[2024.10.09-15.42.52:161][446]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.10.09-15.42.52:196][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.10.09-15.42.52:199][446]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2024.10.09-15.42.56:059][895]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2024.10.09-15.42.57:152][ 20]Cmd: DELETE
+[2024.10.09-15.42.57:152][ 20]Cmd: ACTOR DELETE
+[2024.10.09-15.42.57:153][ 20]LogEditorActor: Deleted Actor: PlayerStart
+[2024.10.09-15.42.57:174][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.09-15.42.57:176][ 20]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.10.09-15.42.58:268][133]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.09-15.42.58:272][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.09-15.42.58:272][133]PIE: New page: PIE session: TopDownShooterGame (9 paź 2024, 19:42:58)
+[2024.10.09-15.42.58:298][133]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TopDownShooterGame
+[2024.10.09-15.42.58:300][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001911s)
+[2024.10.09-15.42.58:300][133]LogAIModule: Creating AISystem for world TopDownShooterGame
+[2024.10.09-15.42.58:301][133]LogPlayLevel: PIE: World Init took: (0.001417s)
+[2024.10.09-15.42.58:301][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownShooterGame.TopDownShooterGame to /Game/UEDPIE_0_TopDownShooterGame.TopDownShooterGame (0.003456s)
+[2024.10.09-15.42.58:323][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.10.09-15.42.58:324][133]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.09-15.42.58:324][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.09-15.42.58:324][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.09-15.42.58:324][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.09-15.42.58:324][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.09-15.42.58:324][133]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.09-15.42.58:324][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.09-15.42.58:324][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.09-15.42.58:324][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.09-15.42.58:325][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.09-15.42.58:325][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.09-15.42.58:325][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.09-15.42.58:325][133]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.09-15.42.58:330][133]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.09-15.42.58:330][133]LogAudioMixer: Display: 1: FrontRight
+[2024.10.09-15.42.58:339][133]LogAudioMixer: Display: Using Audio Device Słuchawki (Arctis Nova 3)
+[2024.10.09-15.42.58:339][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.09-15.42.58:339][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.09-15.42.58:339][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.09-15.42.58:340][133]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.09-15.42.58:340][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.09-15.42.58:340][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.09-15.42.58:341][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.09-15.42.58:341][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.09-15.42.58:341][133]LogInit: FAudioDevice initialized.
+[2024.10.09-15.42.58:342][133]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownShooterGame'.
+[2024.10.09-15.42.58:353][133]LogLoad: Game class is 'GameModeBase'
+[2024.10.09-15.42.58:355][133]LogWorld: Bringing World /Game/UEDPIE_0_TopDownShooterGame.TopDownShooterGame up for play (max tick rate 0) at 2024.10.09-17.42.58
+[2024.10.09-15.42.58:355][133]LogWorld: Bringing up level for play took: 0.000845
+[2024.10.09-15.42.58:355][133]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2024.10.09-15.42.58:357][133]PIE: Server logged in
+[2024.10.09-15.42.58:358][133]PIE: Play in editor total start time 0,087 seconds.
+[2024.10.09-15.43.00:689][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-15.43.00:689][405]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TopDownShooterGame
+[2024.10.09-15.43.00:689][405]LogWorld: UWorld::CleanupWorld for TopDownShooterGame, bSessionEnded=true, bCleanupResources=true
+[2024.10.09-15.43.00:689][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-15.43.00:700][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.09-15.43.00:704][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-15.43.00:725][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.09-15.43.00:725][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.09-15.43.00:726][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.09-15.43.00:730][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.10.09-15.43.00:766][407]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.10.09-15.43.46:808][770]LogEditorViewport: Clicking on Actor (LMB): BP_FPS_Character_C (BP_FPS_Character)
+[2024.10.09-15.44.04:797][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownShooterGame" FILE="E:/TopDownShooter/TopDownShooterGame/Content/TopDownShooterGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.09-15.44.04:820][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.10.09-15.44.04:830][878]LogSavePackage: Moving 'E:/TopDownShooter/TopDownShooterGame/Saved/TopDownShooterGameFA1DDEE14CEEF772F3576592EFB5DF7B.tmp' to 'E:/TopDownShooter/TopDownShooterGame/Content/TopDownShooterGame.umap'
+[2024.10.09-15.44.04:835][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownShooterGame_BuiltData" FILE="E:/TopDownShooter/TopDownShooterGame/Content/TopDownShooterGame_BuiltData.uasset" SILENT=true
+[2024.10.09-15.44.04:845][878]LogSavePackage: Moving 'E:/TopDownShooter/TopDownShooterGame/Saved/TopDownShooterGame_BuiltData7AB21BC84B346264EF89D6846C403E05.tmp' to 'E:/TopDownShooter/TopDownShooterGame/Content/TopDownShooterGame_BuiltData.uasset'
+[2024.10.09-15.44.04:859][878]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.09-15.44.04:859][878]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownShooterGame_BuiltData.TopDownShooterGame_BuiltData
+[2024.10.09-15.44.04:859][878]LogContentValidation: Display: Validating World /Game/TopDownShooterGame.TopDownShooterGame
